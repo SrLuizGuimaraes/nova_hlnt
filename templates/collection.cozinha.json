@@ -1,0 +1,216 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "collection-banner": {
+      "type": "collection-banner",
+      "settings": {
+        "image": "shopify://shop_images/Design_sem_nome_34.png",
+        "image_size": "sm",
+        "allow_transparent_header": true,
+        "reveal": false,
+        "enable_parallax": false,
+        "show_collection_title": false,
+        "show_collection_description": false,
+        "show_breadcrumb": false,
+        "content_width": "xs",
+        "background": "#000000",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_fM3zDW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wxXrj3": {
+          "type": "heading",
+          "settings": {
+            "text": "Sirva com estilo",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_TAJTqg": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>As petisqueiras da Aurea Sacilotto são perfeitas para servir com sofisticação.</p>"
+          }
+        },
+        "button_X48486": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "Veja coleção",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_wxXrj3",
+        "richtext_TAJTqg",
+        "button_X48486"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/Design_sem_nome_31.png",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "featured_collections_3AJKUN": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_bgMmpN": {
+          "type": "collection",
+          "settings": {
+            "collection": "garrafas",
+            "products_count": 8,
+            "title": "Nossas jarras",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_bgMmpN"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "main": {
+      "type": "main-collection",
+      "disabled": true,
+      "settings": {
+        "hide_product_information": false,
+        "products_per_page": 48,
+        "products_per_row_mobile": "2",
+        "products_size_desktop": "medium",
+        "show_grid_mode_selector": true,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "filter_layout": "sidebar",
+        "quick_links_menu": "",
+        "show_sort_by": true,
+        "show_filters": true,
+        "show_results_count": false,
+        "show_filter_group_name": false,
+        "show_empty_filter_values": false,
+        "show_filter_values_count": true,
+        "show_color_swatch": false,
+        "open_filters_by_default": false
+      }
+    },
+    "featured_collections_nreqDQ": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_kRDqz4": {
+          "type": "collection",
+          "settings": {
+            "collection": "petisqueria",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_kRDqz4"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "featured_collections_iHXXTV": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_XY3qMw": {
+          "type": "collection",
+          "settings": {
+            "collection": "travessa",
+            "products_count": 8,
+            "title": "Nossas travessa",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_XY3qMw"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    },
+    "featured_collections_Tn3Qap": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection_6XryGY": {
+          "type": "collection",
+          "settings": {
+            "collection": "garrafa-termica",
+            "products_count": 8,
+            "title": "",
+            "link_url": "",
+            "link_text": "View all"
+          }
+        }
+      },
+      "block_order": [
+        "collection_6XryGY"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "hide_product_information": false,
+        "stack_products": false,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "horizontal_spacing_factor": 1,
+        "vertical_spacing_factor": 1,
+        "subheading": ""
+      }
+    }
+  },
+  "order": [
+    "collection-banner",
+    "image_with_text_fM3zDW",
+    "featured_collections_3AJKUN",
+    "main",
+    "featured_collections_nreqDQ",
+    "featured_collections_iHXXTV",
+    "featured_collections_Tn3Qap"
+  ]
+}

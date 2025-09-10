@@ -1,0 +1,210 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_jteGH4": {
+      "type": "image-with-text-overlay",
+      "custom_css": [
+        "{margin: 40px;}"
+      ],
+      "settings": {
+        "image_size": "sm",
+        "image": "shopify://shop_images/Banner_Lote_Sobre_Nos.jpg",
+        "mobile_image": "shopify://shop_images/Banner_site_Lote_mobile_ca66a94e-06e9-49fd-9a6b-531b07d96c53.jpg",
+        "allow_transparent_header": false,
+        "reveal_on_scroll": true,
+        "remove_vertical_spacing": true,
+        "content_width": "xs",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_eWrQAE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_MD8paW": {
+          "type": "heading",
+          "settings": {
+            "text": "Sobre Nós",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_x6pQXL": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>A Lote é uma marca que acredita na moda descomplicada, mas cheia de propósito. Comandada por Janaina Miglio, nossa missão é criar peças que traduzam a espontaneidade da vida cotidiana, sem abrir mão da autenticidade.</p><p>Cada peça foi pensada para proporcionar liberdade, praticidade e beleza no seu dia a dia.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_MD8paW",
+        "richtext_x6pQXL"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "image_with_text_inD4LL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_iCxzxg": {
+          "type": "heading",
+          "settings": {
+            "text": "Produção",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_YYzLWg": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>A produção é 100% local, o que nos permite manter um alto padrão de qualidade e contribuir para a economia da nossa região. Além disso, estamos engajados em um projeto social que visa promover a valorização das pessoas envolvidas na nossa cadeia de produção, com a intenção de criar um impacto positivo tanto na moda quanto na sociedade.</p>"
+          }
+        },
+        "button_QLAjTA": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "Conheça nossos produtos",
+            "url": "shopify://collections/all",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_iCxzxg",
+        "richtext_YYzLWg",
+        "button_QLAjTA"
+      ],
+      "custom_css": [
+        "image-with-text {margin-bottom: 5%;}"
+      ],
+      "settings": {
+        "separate_section_with_border": false,
+        "image": "shopify://shop_images/02.png",
+        "mobile_image": "shopify://shop_images/01.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_kxCWjE": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_q8hV3e": {
+          "type": "heading",
+          "settings": {
+            "text": "Tecidos",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_RbNJKa": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Tecidos que contam histórias<br/>Na Lote, cada tecido é escolhido com carinho, pensando no toque, no movimento e no conforto que proporciona. Buscamos materiais que trazem leveza ao vestir e carregam texturas que acrescentam charme a cada peça:<br/>- Cambraia de algodão<br/>- Tecidos sustentáveis<br/>- Gaze de algodão<br/>- Cambraia de linho<br/>- Modal<br/>- Sarja<br/><br/>Entre eles, alguns se tornaram verdadeiros símbolos da Lote.</p>"
+          }
+        },
+        "button_GUGCyr": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "Conheça nossos produtos",
+            "url": "shopify://collections/all",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_q8hV3e",
+        "richtext_RbNJKa",
+        "button_GUGCyr"
+      ],
+      "custom_css": [
+        "image-with-text {margin-bottom: 5%;}"
+      ],
+      "settings": {
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/01.png",
+        "mobile_image": "shopify://shop_images/02.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "end",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_qWJjbQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_HGkT7F": {
+          "type": "heading",
+          "settings": {
+            "text": "Convite ao mar Lote",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_pMM4wR": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>A Lote é mais do que moda. É um convite para que você se conecte com o que tem de mais genuíno e volte às suas raízes, explorando seu interior e sua autenticidade.</p>"
+          }
+        },
+        "button_zRBHRM": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "text": "Conheça nossos produtos",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_HGkT7F",
+        "richtext_pMM4wR",
+        "button_zRBHRM"
+      ],
+      "custom_css": [],
+      "settings": {
+        "separate_section_with_border": true,
+        "image": "shopify://shop_images/03.png",
+        "mobile_image": "shopify://shop_images/03.jpg",
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": false
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_jteGH4",
+    "rich_text_eWrQAE",
+    "main",
+    "image_with_text_inD4LL",
+    "image_with_text_kxCWjE",
+    "image_with_text_qWJjbQ"
+  ]
+}
